@@ -1,3 +1,3 @@
 # Py_master
-Aim - Master Python 3.10
+Python 3.10 for Datascience
 Start Date - 21062021
